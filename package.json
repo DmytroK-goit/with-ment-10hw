@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/todo-app/",
+    "build": "vite build --base=/WITH-MENT-10HW/",
     "preview": "vite preview"
   },
   "devDependencies": {
